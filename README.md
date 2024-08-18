@@ -1,4 +1,6 @@
-#YouTube Trending Videos Data Analysis
+YouTube Trending Videos Data Analysis
+
+
 This project performs a detailed analysis of trending YouTube videos, focusing on various attributes such as views, likes, comments, and title characteristics. It uses the YouTube Data API to collect data and employs data visualization techniques to answer questions regarding trends in YouTube content.
 
 Project Overview
